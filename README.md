@@ -3,7 +3,7 @@
 I am Mrinal, a Computer Science senior, passionate about solving unique problems and delivering my commitments on time.<br>
 I am fond of keyboard strokes for any reasonable purpose.<br>
 
-- 🎉 Apart from being a Computer Science enthusiast, I am an epicure, a hodophile, a shutterbug, and a wannabe funny guy!
+- 🎉 Apart from being a Computer Science enthusiast, I am an occasional knowledge imparter, an epicure, a hodophile, a shutterbug, and a wannabe funny guy!
 - ⌛ I prefer to spend my free time exploring new technologies, brainstorming ideas, listening to Hip-Hop music, and penning down my thoughts
 - 💬 Ask me about: Computer Science, Engineering, Mental Health
 - 😄 Pronouns: He / Him
