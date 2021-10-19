@@ -11,12 +11,12 @@ I am fond of keyboard strokes for any reasonable purpose.<br>
 
 Connect with me:
 
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/portfolio.png"/>][portfolio]
 [<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>][facebook]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 [<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 
-[portfolio]: https://mrinal-pandey.github.io/
 [linkedin]: https://www.linkedin.com/in/mrinal-pandey-pes/
+[facebook]: https://www.facebook.com/mrinulll
 [twitter]: https://twitter.com/mrinalpandey_
 [instagram]: https://instagram.com/mrinull
