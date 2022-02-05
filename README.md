@@ -12,7 +12,5 @@ I am fond of keyboard strokes for any reasonable purpose.<br>
 Connect with me:
 
 [<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 
 [linkedin]: https://www.linkedin.com/in/mrinal-pandey-pes/
-[twitter]: https://twitter.com/mrinalpandey_
