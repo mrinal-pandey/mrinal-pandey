@@ -8,9 +8,3 @@ I am fond of keyboard strokes for any reasonable purpose.<br>
 - 💬 Ask me about: Computer Science, Mental Health, Hip-Hop, Food & Travel
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I crack a lot of PJs, but they will make you laugh
-
-Connect with me:
-
-[<img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/mrinal-pandey-pes/
